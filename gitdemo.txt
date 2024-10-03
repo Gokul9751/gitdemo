@@ -1,1 +1,1 @@
-git pull to create new file from git hub
+git pull to update changes from git hub

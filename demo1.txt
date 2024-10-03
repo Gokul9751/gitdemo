@@ -1,0 +1,8 @@
+git add demo1.txt 
+git commit -m"created demo1.txt"
+git push origin main
+
+after modification
+git add demo1.txt
+git commit -m"modify demo1.txt"
+git push origin main
